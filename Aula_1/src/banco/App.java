@@ -1,13 +1,10 @@
+package banco;
 import java.util.Scanner;
 
 public class App {
 
 	public static void main(String[] args) {
-		// Cliente a = new Cliente("a", 1);
-		// Cliente b = new Cliente("b", 2);
-		// Cliente c = new Cliente("c", 80);
-		// Cliente d = new Cliente("d", 4);
-		// Cliente e = new Cliente("e", 5);
+		
 
 		Banco banco = new Banco();
 		// banco.addCliente(a);
